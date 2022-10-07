@@ -60,7 +60,6 @@ More formats coming soon!
         "511": "Network Authentication Required.",
         "521": "Web server is down.",
         "525": "SSL Handshake Failed."
-
     }
 }
 ```
